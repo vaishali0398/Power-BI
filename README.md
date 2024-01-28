@@ -7,7 +7,10 @@ This Power BI report provides a comprehensive analysis of Amazon data, offering 
 
 Report Contents
 **1. Introduction**
+
 This Report will help in analyzing different aspects on sales by Amazon.
+
+
 **2. Data Sources**
 Data is in excel format and it is static. There are three sheets in the file- Orders, People, Return.
 Used first row as headers
