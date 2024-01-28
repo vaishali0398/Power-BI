@@ -6,34 +6,34 @@ Overview
 This Power BI report provides a comprehensive analysis of Amazon data, offering insights into various aspects of the company's performance and operations. The visualizations in this report are designed to help users gain a deeper understanding of key metrics and trends related to Amazon.
 
 Report Contents
-1. Introduction
+**1. Introduction**
 This Report will help in analyzing different aspects on sales by Amazon.
-2. Data Sources
+**2. Data Sources**
 Data is in excel format and it is static. There are three sheets in the file- Orders, People, Return.
 Used first row as headers
 Changed the Data Type for few columns
 Added delivery date and year columns using transformation.
-4. Executive Summary
+**3. Executive Summary**
 Total Rs 12.64M of Sales ahs been projected over four years from 2012-2015.
-5. Key Metrics
+**4. Key Metrics**
 Visualizations of critical performance metrics such as revenue, profit, and market share.
 Year-over-year and quarter-over-quarter comparisons to highlight trends.
-6. Sales Analysis
+**5. Sales Analysis**
 Breakdown of sales by product category, region, and time period.
 Identification of top-performing products and regions.
-7. Customer Behavior
+**6. Customer Behavior**
 Analysis of customer demographics, buying patterns, and customer satisfaction.
 Visualizations showcasing customer retention and acquisition trends.
-8. Operational Efficiency
+**7. Operational Efficiency**
 Insights into fulfillment and delivery performance.
 Inventory management analysis.
-9. Financial Performance
+**8. Financial Performance**
 Visualization of financial statements, including income statements and balance sheets.
 Trend analysis of key financial indicators.
-10. Market Trends
+**9. Market Trends**
 Examination of industry trends and Amazon's position in the market.
 Competitive analysis and market share comparisons.
-11. Recommendations
+**10. Recommendations**
 Actionable insights and recommendations based on the analysis.
 Suggestions for areas of improvement and potential growth strategies.
 Getting Started
